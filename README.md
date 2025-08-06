@@ -2,6 +2,8 @@
 Analisis dilakukan pada data kualitas udara (PRSA Data) yang mencakup level polusi dan kondisi cuaca dari stasiun pengamatan di Beijing.
 > ✅ Proyek ini merupakan bagian dari **Machine Learning Engineer Path by Dicoding Indonesia**, khususnya dalam course **Belajar Analisis Data dengan Python**.
 
+🔗 **Live Demo (Streamlit App):** [Lihat Aplikasi Dashboard di sini](https://hanfiy-airquality.streamlit.app/)
+
 ---
 ## 🎯 Tujuan Proyek
 
